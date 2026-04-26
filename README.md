@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 Who am i ?
 
-I’m Erwan, a **24-year-old software engineer** based in France. My daily goal is to improve myself as an engineer, and I enjoy solving problems by finding pragmatic and efficient solutions. I love learning new things and working on research projects.
+I’m Erwan, a **25-year-old software engineer** based in France. My daily goal is to improve myself as an engineer, and I enjoy solving problems by finding pragmatic and efficient solutions. I love learning new things and working on research projects.
 
 ## 🐠📱 Fishbotica
 
